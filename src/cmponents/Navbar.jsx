@@ -50,13 +50,12 @@ const Navbar = () => {
           <hr className="border-none outline-nne h-0.5 bg-primary w-3/5 m-auto hidden" />
         </NavLink>
 
-        <NavLink to="http://localhost:5174/">
+        <NavLink to="https://appointiva-admin.vercel.app/">
           <li className="py-1 border border-primary rounded-full px-5">
             Admin Panel
           </li>
           <hr className="border-none outline-nne h-0.5 bg-primary w-3/5 m-auto hidden" />
         </NavLink>
-        <NavLink to="http://localhost:5174/"></NavLink>
       </ul>
 
       <div className="flex items-center gap-4">
